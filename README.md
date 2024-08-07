@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ellearz
-- 👀 I’m interested in Swift
-- 🌱 I’m currently learning UIKIT and SWIFT UI
-- 💞️ I’m looking to collaborate on Swift UI projects
+  My Tech Stack:
+  Flutter/Dart
+  SwiftUI/Swift
+  UIKIT/Swift
+  Python
 
 <!---
 ellearz/ellearz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
