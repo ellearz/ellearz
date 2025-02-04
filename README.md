@@ -2,7 +2,6 @@
   My Tech Stack:
   Flutter/Dart
   SwiftUI/Swift
-  UIKIT/Swift
   Python
 
 <!---
