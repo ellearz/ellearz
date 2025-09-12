@@ -1,6 +1,6 @@
 # Hi there, I'm ellearz! 👋
 
-🚀 **Flutter Developer (Junior Expert)**  
+🚀 **Flutter Developer and SwiftUI Developer (Junior Expert)**  
 🌱 Ready for new collaborations and exciting projects!
 
 ---
@@ -12,7 +12,8 @@
 - UI/UX Enthusiast
 
 ---
-
+### My Released Apps (feel free to download and use them)
+- [BetterMe (iOS Version)](https://apps.apple.com/de/app/better-me-world/id6741191238?l=en-GB)
 
 
 ## 🤝 Let's Connect!
