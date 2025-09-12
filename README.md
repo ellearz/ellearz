@@ -18,6 +18,9 @@
 
 ## 🤝 Let's Connect!
 
+- [LinkedIn](https://www.linkedin.com/in/elnuraarzybaeva/)
+
+
 <!-- Add your social links below! Example:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter/X](https://twitter.com/yourprofile)
