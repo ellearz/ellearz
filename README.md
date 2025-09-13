@@ -13,7 +13,8 @@
 
 ---
 ### My Released Apps (feel free to download and use them)
-- [BetterMe (iOS Version)](https://apps.apple.com/de/app/better-me-world/id6741191238?l=en-GB)
+- [BetterMe (iOS Version with Swift UI)](https://apps.apple.com/de/app/better-me-world/id6741191238?l=en-GB)
+- [BetterMe (Android Version with Flutter)](https://play.google.com/store/apps/details?id=com.lufy.betterme)
 
 
 ## 🤝 Let's Connect!
