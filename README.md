@@ -1,6 +1,6 @@
 # Hi there, I'm ellearz! 👋
 
-🚀 **Flutter Developer and SwiftUI Developer (Junior Expert)**  
+🚀 **Flutter Developer and SwiftUI Developer **  
 🌱 Ready for new collaborations and exciting projects!
 
 ---
